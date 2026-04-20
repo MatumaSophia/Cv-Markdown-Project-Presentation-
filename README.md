@@ -102,3 +102,12 @@ Limpopo Connection
 **Ms. Sarah Serage**  
 The Office Internet & Copy Shop  
 📱 074 846 3011  
+
+---
+
+## 🎤 Mock Interview Video
+
+<a href="https://drive.google.com/file/d/10s4st0qDujVOkFyCPadGOcN5mFimsY2y/view?usp=share_link" target="_blank">
+  <img src="https://drive.google.com/thumbnail?id=10s4st0qDujVOkFyCPadGOcN5mFimsY2y" 
+  alt="Click to Watch Mock Interview Video" width="600"/>
+</a>
