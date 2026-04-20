@@ -107,10 +107,7 @@ The Office Internet & Copy Shop
 
 ## 🎤 Mock Interview Video
 
-<a href="https://drive.google.com/file/d/10s4st0qDujVOkFyCPadGOcN5mFimsY2y/view?usp=share_link" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=10s4st0qDujVOkFyCPadGOcN5mFimsY2y" 
-  alt="Click to Watch Mock Interview Video" width="600"/>
-</a>
+[▶️ Click here to watch my Mock Interview Video](https://drive.google.com/file/d/10s4st0qDujVOkFyCPadGOcN5mFimsY2y/view?usp=share_link)
 
 ---
 
