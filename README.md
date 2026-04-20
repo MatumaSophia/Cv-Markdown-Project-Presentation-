@@ -112,4 +112,53 @@ The Office Internet & Copy Shop
   alt="Click to Watch Mock Interview Video" width="600"/>
 </a>
 
+---
+
+## 💭 Reflections
+
+### 📝 Reflection 1: Coding my CV in Markdown
+
+**Situation:**
+As part of my Project Presentation 3 module, I was required to create a digital CV using Markdown language and host it on GitHub.
+
+**Task:**
+My task was to translate my existing CV into properly formatted Markdown code, ensuring it was readable, well-structured, and professional.
+
+**Action:**
+I was not fully confident with Markdown syntax, so I sought help to understand the formatting rules such as headings, bullet points, and horizontal lines. With that guidance, I worked through each section of my CV and coded it step by step until the full document was complete.
+
+**Result:**
+The result was a fully coded CV hosted on GitHub. Although I needed assistance, I gained a better understanding of Markdown and how it is used by developers to format content clearly and efficiently.
+
+---
+
+### 🎤 Reflection 2: Mock Interview Video Experience
+
+**Situation:**
+As part of my work readiness training, I was required to record a mock interview video to demonstrate my ability to present myself professionally to a potential employer.
+
+**Task:**
+My task was to prepare and record myself answering interview questions in a confident and professional manner, then embed the video into my digital portfolio.
+
+**Action:**
+I prepared by thinking through common interview questions and practicing my responses beforehand. I approached the recording feeling fairly confident and focused on maintaining good posture, clear communication, and a professional tone throughout.
+
+**Result:**
+I successfully recorded and submitted my mock interview video. The experience helped me realise that preparation is key to confidence in interviews, and it gave me valuable practice for future real-world job interviews.
+
+---
+
+### 🌐 Reflection 3: Using GitHub Pages
+
+**Situation:**
+To complete my digital portfolio, I was required to publish it online using GitHub Pages so that it could be accessed by anyone with the link.
+
+**Task:**
+My task was to enable GitHub Pages on my repository and ensure my portfolio was live and accessible via a public URL.
+
+**Action:**
+As this was my first time using GitHub Pages, I carefully followed the steps to enable it through my repository settings, selecting the correct branch to deploy from.
+
+**Result:**
+My portfolio was successfully published and accessible online. This was a valuable new skill as I now understand how developers can host and share web content directly from GitHub, which will be useful in my future career as a software developer.
 
