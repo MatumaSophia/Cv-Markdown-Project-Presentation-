@@ -74,24 +74,6 @@ Mokopane Academic School | 2020
 
 ---
 
-## 🚀 Projects & Portfolio
-
-### 🌐 Portfolio Website  
-🔗 https://matumamalapile.github.io  
-- Responsive website showcasing projects using HTML5, CSS3, and JavaScript  
-
-### 💻 GitHub Repository  
-🔗 https://github.com/MatumaSophia 
-- Java and Python projects demonstrating OOP and problem-solving  
-- Database-driven applications with SQL integration  
-
-### 📚 Academic Projects
-- Java: Console and GUI-based applications, CRUD systems  
-- Python: Scripting, automation, and problem-solving exercises  
-- Databases: Designed and implemented relational databases using MySQL  
-- Web Development: Responsive websites and e-commerce prototypes  
-
----
 
 ## 📑 References
 
