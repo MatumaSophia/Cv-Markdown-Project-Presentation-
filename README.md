@@ -143,3 +143,55 @@ As this was my first time using GitHub Pages, I carefully followed the steps to 
 **Result:**
 My portfolio was successfully published and accessible online. This was a valuable new skill as I now understand how developers can host and share web content directly from GitHub, which will be useful in my future career as a software developer.
 
+---
+
+## Agile Project Portfolio: GugsLocalConnect
+
+GugsLocalConnect is a community-focused platform that connects Gugulethu residents with trusted local businesses. This section documents how our team worked using Agile.
+
+### 1. Agile Team Charter
+
+#### Evidence
+
+**Purpose:** Our team is building GugsLocalConnect, a platform where customers can find local services and business owners can manage their profiles. Our shared goal is to deliver a working Angular and Spring Boot application.
+
+**Team structure:** The team is split into a frontend group and a backend group.
+
+| Member | Role |
+|---|---|
+| Matuma Malapile | Frontend developer, solution architecture, branding and presentation support |
+| Lithabile Lalela | Frontend developer |
+| Bongikazi Mnyamana | Frontend developer (started the frontend) |
+| Sethu Mdluli | Team leader, backend developer |
+| Siyalezo Mbuyisa | Backend developer |
+| Phelo Mguca | Backend developer |
+
+**Values**
+- Community first: every feature must help Gugulethu residents or local businesses.
+- Consistency: we follow the same design, branding and code structure.
+- [1 or 2 values your group actually shares]
+
+**Working agreements**
+- We hold daily stand-ups and record them in our Agile Logbook (what I completed, what I plan to do, and what is blocking me).
+- Work is tracked on our Trello board, and nobody works on anything that is not on the board.
+- Code is shared through GitHub, and changes go through pull requests.
+- Before changing any code, we sync our fork and pull the latest work, then test it. After making our changes and testing them, we open a pull request so other members can review before it is merged.
+
+**Definition of Done:** A task is done when it works, matches the Brand Guide, its Trello checklist is fully ticked, and the code is pushed to GitHub.
+
+**Boundaries and conflict handling**
+- If someone is blocked or behind, they say so at stand-up so the team can help.
+- Disagreements are discussed as a group first, and the team leader makes the final call if needed.
+- [anything else your group agreed]
+
+**Tools:** Trello, GitHub, Figma, WhatsApp, Angular, Spring Boot, Supabase.
+
+#### Reflection
+
+**Situation:** My original project group could not continue because we were left with only two members, so I joined the GugsLocalConnect team after it had already started. The team already had ways of working (a Trello board, stand-ups and a logbook) that I had to learn quickly.
+
+**Task:** The team split into a frontend group (Lithabile, Bongikazi and me) and a backend group (the other three members). My task was to contribute to the frontend, and also to support the team with the solution architecture, business branding and the presentation.
+
+**Action:** Bongikazi had started the frontend, so I built on that work. I created the solution architecture diagram, helped with the business branding and presentation, and helped fix the landing page. I built the Contact page that our lecturer requested, which sends messages to the project email through Formspree. I also made the category filter options on the Browse page work properly and added more sample business listings so the platform could be tested with realistic data. For every change I followed the same routine: I synced my fork, pulled the latest work, tested it, made my changes, tested again, and then opened a pull request so other members could review it before it was merged.
+
+**Result:** The frontend now has a working Contact page, working filters and more listings than before. Because I always pulled and tested before making changes and used pull requests for review, I have not had a merge conflict on this project. Joining late taught me how to fit into an existing workflow and to rely on the team's agreements instead of working alone. Looking back, a written charter from the start would have made my role clear on day one and made it easier for me to join.
