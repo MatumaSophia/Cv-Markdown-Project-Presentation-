@@ -169,7 +169,6 @@ GugsLocalConnect is a community-focused platform that connects Gugulethu residen
 **Values**
 - Community first: every feature must help Gugulethu residents or local businesses.
 - Consistency: we follow the same design, branding and code structure.
-- [1 or 2 values your group actually shares]
 
 **Working agreements**
 - We hold daily stand-ups and record them in our Agile Logbook (what I completed, what I plan to do, and what is blocking me).
@@ -182,7 +181,6 @@ GugsLocalConnect is a community-focused platform that connects Gugulethu residen
 **Boundaries and conflict handling**
 - If someone is blocked or behind, they say so at stand-up so the team can help.
 - Disagreements are discussed as a group first, and the team leader makes the final call if needed.
-- [anything else your group agreed]
 
 **Tools:** Trello, GitHub, Figma, WhatsApp, Angular, Spring Boot, Supabase.
 
