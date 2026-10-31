@@ -263,3 +263,76 @@ The backlog also contains the user stories from Section 2. Two items came after 
 **Action:** I used the backlog to see which items depended on others, for example that search and filtering needed business data to be useful, which is why I added more sample listings. I worked on my items, tested them, and opened pull requests for review. When our lecturer asked for a Contact page, it was a new item that had not been in the original backlog, so I built it and the team added it to our work.
 
 **Result:** The feature items in the backlog are now complete and the platform can be tested end to end. I learned that a product backlog is a living list: new requirements such as the Contact page appear along the way and have to be added and prioritised. Next time I would add new requests to the backlog before starting work on them, so the board always shows the real state of the project.
+
+---
+
+### 4. Sprint Backlog
+
+#### Evidence
+
+Our sprint backlog is the set of work the team commits to in each sprint. At the start of a sprint, items are moved from the product backlog into a sprint list on our Trello board, and each card has a checklist of smaller tasks. The team members assigned to a card tick off its checklist as the work is completed. Our project ran through seven sprints, moving from research and business planning, to requirements and design, and then to building the frontend and the backend. The table below summarises them.
+
+| Sprint | Focus | Main tasks on the sprint list | Status |
+|---|---|---|---|
+| Sprint 1 | Community research | Collect survey responses; Identify community stakeholders; Define the community problem | Complete |
+| Sprint 2 | Business planning | Define project objectives; Create the value proposition; Research competitors; Identify target customers; Perform SWOT analysis; Create business model; Create customer personas | Complete |
+| Sprint 3 | Requirements | Gather functional requirements; Identify system users; Gather non-functional requirements; Define business owner requirements; Define customer requirements | Complete |
+| Sprint 4 | System design | Create class diagram; Design Entity Relationship Diagram (ERD); Create system flow diagram; Design database schema; Define API requirements | Complete |
+| Sprint 5 | UI design | Create Figma project; Design landing page; Design business owner login page; Design customer login page; Design registration page | Complete |
+| Sprint 6 | Frontend setup (3 to 7 Aug) | Set up Angular project; Configure Angular routing; Develop landing page; Create navigation menu; Develop registration page | Complete |
+| Sprint 7 | Backend setup (10 to 14 Aug) | Set up Spring Boot project; Configure MySQL database; Connect Spring Boot to MySQL; Create User entity; Create Business entity | Complete |
+| In Progress | Continuing backend and integration (17 to 19 Aug) | Create Service entity; Develop REST APIs; Implement user registration API; Implement login authentication; Connect Angular to Spring Boot | In progress at the time |
+
+Sprint 6 matches the stand-ups in our Agile Logbook (4 to 7 August), where the team reviewed the Home and Login pages, worked on navigation and the Brand Guide, and agreed on the next features. By the end of the sprints, 19 cards had been moved to the Completed list.
+
+**My items:** I contributed to the frontend work from Sprint 6 onwards, including improving the landing page. After the sprints on the board, I built the category filtering and the Contact page, which came from the product backlog and our lecturer's request.
+
+<img width="1914" height="842" alt="Screenshot 2026-10-31 at 21 18 59" src="https://github.com/user-attachments/assets/bc4389cf-cbc1-4f09-8386-0fc4e4bec5d8" />
+<img width="1914" height="842" alt="Screenshot 2026-10-31 at 21 19 06" src="https://github.com/user-attachments/assets/9a2d440d-ce40-4467-b3fe-be55f674368f" />
+
+#### Reflection
+
+**Situation:** When I joined the team, the project had already been planned in sprints. The first sprints covered research, the business plan, requirements and design. The later sprints covered the Angular frontend and the Spring Boot backend, so I joined at the point where the team was moving from design into building.
+
+**Task:** My task was to understand what had been completed and what the frontend group needed to do next, and to take on sprint work that fitted my role in the frontend group.
+
+**Action:** I used the sprint lists to see what was already done, such as the Figma designs and the database design, so that my frontend work followed them. I worked on frontend items, including improving the landing page, and later the category filtering and the Contact page. I tested my work before every pull request and used the team's stand-ups to say what I was working on and anything blocking me.
+
+**Result:** Having the work split into sprints with checklists made it easy to see progress and to know what was still open. I learned that small sprints with clear tasks make it easier to test and review work, and that a sprint backlog only helps if the board is kept up to date. Next time I would make sure every task I work on, including late requests like the Contact page, is added to a sprint list before I start it.
+
+---
+
+### 5. Agile Logbook
+
+#### Evidence
+
+Our Agile Logbook is where the team records its daily stand-ups. Each entry answers three questions: what was completed since the last stand-up, what is planned before the next one, and what is blocking progress. The logbook also holds a taskboard walkthrough, where the team reviews the board and checks for bottlenecks. The full logbook is available here: [Agile Logbook (PDF)](PRP37XS_Agile_Logbook.pdf)
+
+**Taskboard walkthrough**
+
+| Question | Team answer |
+|---|---|
+| What do we need to do to advance this piece of work? | Continue developing the frontend by completing the remaining pages, applying the approved brand guidelines, and preparing the application for backend integration. |
+| Is anyone working on anything that is not on the board? | No. The current tasks match the taskboard, including frontend development, branding and page implementation. |
+| What do we need to finish as a team? | Complete the remaining frontend pages, agree on the final design and branding, and prepare the project for integration with the Spring Boot backend. |
+| Are there any bottlenecks or blockers? | Coordinating development between team members and making sure everyone follows the same design, branding and technical structure. |
+
+**Stand-up entries**
+
+| Date | Completed since last stand-up | Planned next | Impediments |
+|---|---|---|---|
+| Tue 4 Aug 2026 | Continued developing the frontend, reviewed the Home and Login pages, checked navigation and improved the layout and user experience. | Keep refining the frontend pages and make sure they follow the same design and branding. | Layout adjustments still needed to stay consistent across screen sizes and pages. |
+| Wed 5 Aug 2026 | Worked on the GugsLocalConnect Brand Guide: logo, colour palette, typography and correct use of the brand identity. | Finish the Brand Guide and use the chosen colours and design elements consistently in the application. | Choosing the final visual elements and making sure the branding works on both the website and future application pages. |
+| Thu 6 Aug 2026 | Worked on the business model and discussed how the platform creates value for customers and business owners. Reviewed the main services and target users. | Complete the business model documentation and make sure it matches the purpose and features of the platform. | Making sure the business model is realistic and clearly explains how the platform benefits Gugulethu and local businesses. |
+| Fri 7 Aug 2026 | Reviewed the week's progress on the frontend, Brand Guide and business model. Organised the project work and discussed the next features. | Continue the remaining frontend pages and prepare for backend integration. | Coordinating the frontend, documentation, branding and future backend work so they stay consistent. |
+
+
+#### Reflection
+
+**Situation:** The team kept a logbook of daily stand-ups so that everyone could see what had been done, what came next, and what was blocking progress. When I joined the team late, the logbook and the taskboard walkthrough were how I caught up on the work and the decisions that had been made before I arrived.
+
+**Task:** My task was to understand the team's routine, follow the same approach in my own work, and keep my part of the project consistent with the team's design, branding and technical structure, which the logbook names as the main risk.
+
+**Action:** I read the logbook entries to learn about the Brand Guide, the business model and the layout problems the team had already found. In my own work I followed the same pattern as the stand-up questions: I knew what I had completed, what I would do next, and what was blocking me, and I raised problems with the group instead of working alone. I kept my frontend work consistent with the existing design, and I tested and opened pull requests so others could review it.
+
+**Result:** The logbook showed me that the same risk appeared in every entry: keeping the frontend, branding and backend consistent. That is why I followed the existing design and review process on my own tasks. I learned that short, regular stand-up notes make blockers visible early. Next time I would write my own logbook entry every working day from the day I join, so that my contribution is recorded in my own words as well as in the team's.
