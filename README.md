@@ -7,7 +7,7 @@
 ## 📞 Contact Information
 - 📱 069 131 2686  
 - 📧 222904267@mycput.ac.za  
-- 📧 s.matumamalapile@gmail.com  
+- 📧 matuma469@gmail.com  
 - 📍 143 Sir Lowry Road, Woodstock, Cape Town, 7925  
 - 🔗 [LinkedIn](https://linkedin.com/in/matuma-malapile-b3aa69199)
 
