@@ -212,8 +212,11 @@ Our team writes user stories from the end-user's perspective and breaks each one
 
 **My tasks:** I worked on the category filtering (US1), where I made the filter options on the Browse page work properly, and on the Contact page (US4). I also added more sample business listings to the platform so it could be tested with realistic data, and I created the solution architecture diagram for the project.
 
-![Trello board part 1](trello-board-1.jpg)
-![Trello board part 2](trello-board-2.jpg)
+<img width="1919" height="841" alt="trello-board-1" src="https://github.com/user-attachments/assets/d613341e-9356-45c5-b4c1-cca09bb3c7a6" />
+<img width="1919" height="841" alt="trello-board-2" src="https://github.com/user-attachments/assets/62f752bd-c58d-4b22-81a9-aa3656b76482" />
+
+
+
 
 #### Reflection
 
