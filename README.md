@@ -306,7 +306,7 @@ Sprint 6 matches the stand-ups in our Agile Logbook (4 to 7 August), where the t
 
 #### Evidence
 
-Our Agile Logbook is where the team records its daily stand-ups. Each entry answers three questions: what was completed since the last stand-up, what is planned before the next one, and what is blocking progress. The logbook also holds a taskboard walkthrough, where the team reviews the board and checks for bottlenecks. The full logbook is available here: [Agile Logbook (PDF)](PRP37XS_Agile_Logbook.pdf)
+Our Agile Logbook is where the team records its daily stand-ups. Each entry answers three questions: what was completed since the last stand-up, what is planned before the next one, and what is blocking progress. The logbook also holds a taskboard walkthrough, where the team reviews the board and checks for bottlenecks. The full logbook is available here: [Gugs logbook _merged.pdf](https://github.com/user-attachments/files/34224801/Gugs.logbook._merged.pdf)
 
 **Taskboard walkthrough**
 
