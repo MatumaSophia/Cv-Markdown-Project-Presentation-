@@ -227,3 +227,39 @@ Our team writes user stories from the end-user's perspective and breaks each one
 **Action:** For the filter, I worked on it until the category options narrowed the results correctly and tested it with different categories. For the Contact page, I built a form with name, email, subject and message fields, set it up to send messages to the project email through Formspree, and added a Contact link to the navbar. I added more sample businesses so there was enough data to test with. For each task I pulled the latest work, tested it, made my changes, tested again, and opened a pull request so other members could review it before it was merged.
 
 **Result:** Both features work: customers can filter businesses by category, and messages from the Contact page reach the project email. The platform now also has more listings than before, so it is easier to test and demonstrate. I learned that breaking a user story into small tasks makes it clear what "done" means and makes it easier to test one piece at a time. Next time, I would add a new requirement such as the Contact page to the Trello board before building it, so that the board always shows the real state of the work.
+
+---
+
+### 3. Product Backlog
+
+#### Evidence
+
+Our product backlog is the prioritised list of everything the team needs to build, test and deliver for GugsLocalConnect. We keep it as the first list on our Trello board, and items are ordered from the core features at the top to testing and the final presentation at the bottom. When the team plans a sprint, the next items are moved from the backlog into a sprint list. Features are colour-labelled orange and testing and delivery work is labelled grey.
+
+| Priority | Backlog item | Type | Related user story | Status |
+|---|---|---|---|---|
+| 1 | Implement business profile management | Feature | US2 | Complete |
+| 2 | Implement service listing feature | Feature | US2 | Complete |
+| 3 | Implement search functionality | Feature | US1 | Complete |
+| 4 | Implement category filtering | Feature | US1 | Complete |
+| 5 | Implement contact business feature | Feature | US1 | Complete |
+| 6 | Perform unit testing | Testing | All | Complete |
+| 7 | Perform integration testing | Testing | All | Complete |
+| 8 | Fix bugs and improve performance | Improvement | All | Complete |
+| 9 | Prepare final presentation | Delivery | All | In progress |
+
+The backlog also contains the user stories from Section 2. Two items came after the original backlog was written: the Contact page (US4), which our lecturer requested, and additional sample business listings for testing.
+
+**My items:** Implement category filtering (priority 4), the Contact page (US4) and adding sample business listings.
+
+<img width="289" height="842" alt="Product Backlog list" src="https://github.com/user-attachments/assets/80d7670a-7328-4a6a-ba93-a66e462833cc" />
+
+#### Reflection
+
+**Situation:** When I joined the team, the product backlog already existed on our Trello board. It listed the main features of the platform, followed by testing, bug fixing and the final presentation, so I could see straight away what the team still needed to deliver.
+
+**Task:** My task was to understand the backlog, pick up the frontend items that matched my role, and make sure the work I delivered was reflected on the board. I took on category filtering and later the Contact page.
+
+**Action:** I used the backlog to see which items depended on others, for example that search and filtering needed business data to be useful, which is why I added more sample listings. I worked on my items, tested them, and opened pull requests for review. When our lecturer asked for a Contact page, it was a new item that had not been in the original backlog, so I built it and the team added it to our work.
+
+**Result:** The feature items in the backlog are now complete and the platform can be tested end to end. I learned that a product backlog is a living list: new requirements such as the Contact page appear along the way and have to be added and prioritised. Next time I would add new requests to the backlog before starting work on them, so the board always shows the real state of the project.
