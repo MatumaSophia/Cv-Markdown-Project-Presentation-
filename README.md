@@ -193,3 +193,34 @@ GugsLocalConnect is a community-focused platform that connects Gugulethu residen
 **Action:** Bongikazi had started the frontend, so I built on that work. I created the solution architecture diagram, helped with the business branding and presentation, and helped fix the landing page. I built the Contact page that our lecturer requested, which sends messages to the project email through Formspree. I also made the category filter options on the Browse page work properly and added more sample business listings so the platform could be tested with realistic data. For every change I followed the same routine: I synced my fork, pulled the latest work, tested it, made my changes, tested again, and then opened a pull request so other members could review it before it was merged.
 
 **Result:** The frontend now has a working Contact page, working filters and more listings than before. Because I always pulled and tested before making changes and used pull requests for review, I have not had a merge conflict on this project. Joining late taught me how to fit into an existing workflow and to rely on the team's agreements instead of working alone. Looking back, a written charter from the start would have made my role clear on day one and made it easier for me to join.
+
+
+---
+
+### 2. User Stories and Tasks
+
+#### Evidence
+
+Our team writes user stories from the end-user's perspective and breaks each one into smaller tasks on our Trello board. A story is only complete when all of its tasks are ticked off. The table below shows our main user stories and the tasks linked to each one.
+
+| ID | User story | Tasks (from our Trello board) | Status |
+|---|---|---|---|
+| US1 | As a customer, I want to browse local businesses and contact business owners so that I can find trusted services in my community. | Implement search functionality; Implement category filtering; Implement contact business feature; Design landing page | Complete |
+| US2 | As a business owner, I want to manage my business profile and services so that customers can find my business online. | Implement business profile management; Implement service listing feature; Create Service entity; Create Business entity | Complete |
+| US3 | As a user, I want to register and log in as a customer or a business owner so that I can access the features meant for me. | Design registration page; Design customer login page; Design business owner login page; Implement user registration API; Implement login authentication | Complete |
+| US4 | As a customer, I want to send a message to the platform team so that I can ask questions or give feedback. | Create the Contact page form; Connect the form to the project email using Formspree; Add a Contact link to the navbar | Complete (added after our lecturer requested a contact page) |
+
+**My tasks:** I worked on the category filtering (US1), where I made the filter options on the Browse page work properly, and on the Contact page (US4). I also added more sample business listings to the platform so it could be tested with realistic data, and I created the solution architecture diagram for the project.
+
+![Trello board part 1](trello-board-1.png)
+![Trello board part 2](trello-board-2.png)
+
+#### Reflection
+
+**Situation:** I joined the GugsLocalConnect team after the project had already started, so the user stories and the Trello board were already set up. Each story described what a customer or a business owner needs from the platform, and each one was broken down into smaller tasks that the team could tick off. Later in the project our lecturer also asked for a Contact page, which was a new requirement that had to be turned into a story and tasks of its own.
+
+**Task:** As part of the frontend group, I was responsible for the tasks that made the platform easier to use for customers. These were making the category filter work properly on the Browse page (US1) and building the Contact page so users could reach the team (US4). I also took on adding sample businesses so the filters and search could be tested.
+
+**Action:** For the filter, I worked on it until the category options narrowed the results correctly and tested it with different categories. For the Contact page, I built a form with name, email, subject and message fields, set it up to send messages to the project email through Formspree, and added a Contact link to the navbar. I added more sample businesses so there was enough data to test with. For each task I pulled the latest work, tested it, made my changes, tested again, and opened a pull request so other members could review it before it was merged.
+
+**Result:** Both features work: customers can filter businesses by category, and messages from the Contact page reach the project email. The platform now also has more listings than before, so it is easier to test and demonstrate. I learned that breaking a user story into small tasks makes it clear what "done" means and makes it easier to test one piece at a time. Next time, I would add a new requirement such as the Contact page to the Trello board before building it, so that the board always shows the real state of the work.
